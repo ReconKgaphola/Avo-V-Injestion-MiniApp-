@@ -1,0 +1,4 @@
+session_code,organisation,programme,facilitator,session_date,attendees,source_file 
+AVO-001,Community Center,Leadership 101,Dr. Smith,2024-01-15,25,test.csv 
+AVO-002,School District,Teacher Training,Ms. Johnson,2024-01-16,30,test.csv 
+AVO-001,Community Center,Leadership 101,Dr. Smith,2024-01-16,28,test2.csv 
