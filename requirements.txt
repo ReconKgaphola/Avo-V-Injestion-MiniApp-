@@ -1,0 +1,27 @@
+# Django Core
+Django==5.0.1
+djangorestframework==3.14.0
+
+# Database (choose one)
+# SQLite is default for development - no additional package needed
+# PostgreSQL for production (uncomment if needed)
+# psycopg2-binary==2.9.9
+
+# Testing
+pytest==7.4.3
+pytest-django==4.7.0
+pytest-cov==4.1.0  # Optional: for test coverage
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Optional: For debugging and performance
+# django-debug-toolbar==4.2.0  # Uncomment if you want query debugging
+
+Installation Command
+# Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install all dependencies
+pip install -r requirements.txt
